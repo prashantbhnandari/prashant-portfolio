@@ -18,7 +18,7 @@ export const personal = {
   location: 'Srinagar Garhwal, Uttarakhand',
   linkedin: 'prashant-bhandari-34a469262',
   github: 'prashantbhandari7678',
-  resumeUrl: '/resume.pdf',
+  resumeUrl: 'resume.pdf',
 };
 
 export const heroTypingRoles = [
